@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on<br><br>* AI-based projects <br><br> I’m looking to collaborate on<br><br>* AI / Machine Learning projects<br>* Web + AI integration projects<br><br> I’m looking for help with<br><br>* Advanced Machine Learning concepts<br>* Building real-world AI applications<br><br> I’m currently learning<br><br>* Machine Learning (scikit-learn)<br>* Deep Learning basics<br>* Building AI models<br><br>* I love building AI projects that solve real-world problems <br>
+ I’m currently working on<br><br>* AI-based projects  I’m looking to collaborate on<br><br>* AI / Machine Learning projects<br>* Web + AI integration projects<br><br> I’m looking for help with<br><br>* Advanced Machine Learning concepts<br>* Building real-world AI applications<br><br> I’m currently learning<br><br>* Machine Learning (scikit-learn)<br>* Deep Learning basics<br>* Building AI models<br><br>* I love building AI projects that solve real-world problems <br>
 
 
 # 💻 Tech Stack:
